@@ -1,1 +1,10 @@
 
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.xendpay",
+    "sha256_cert_fingerprints":
+    ["13:78:A1:AA:BC:BA:E8:08:04:2C:AA:A3:EC:E5:DE:EC:BC:64:CE:3D:55:42:8E:F9:6F:98:FD:A3:11:BE:DE:B3"]
+  }
+}]
